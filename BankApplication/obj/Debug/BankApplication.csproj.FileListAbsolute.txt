@@ -1,0 +1,11 @@
+D:\MyProj\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+D:\MyProj\BankApplication\BankApplication\obj\Debug\BankApplication.csprojResolveAssemblyReference.cache
+D:\MyProj\BankApplication\BankApplication\bin\Debug\BankApplication.exe
+D:\MyProj\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+D:\MyProj\BankApplication\BankApplication\bin\Debug\BankLibrary.dll
+D:\MyProj\BankApplication\BankApplication\bin\Debug\BankLibrary.pdb
+D:\MyProj\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+D:\MyProj\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
+D:\ToGit\BankApplication\BankApplication\bin\Debug\BankApplication.exe.config
+D:\ToGit\BankApplication\BankApplication\obj\Debug\BankApplication.exe
+D:\ToGit\BankApplication\BankApplication\obj\Debug\BankApplication.pdb
